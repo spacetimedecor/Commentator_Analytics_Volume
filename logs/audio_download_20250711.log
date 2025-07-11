@@ -1,0 +1,40 @@
+2025-07-11 13:39:40,754 - audio_download - INFO - Starting audio download job for batch 20250711
+2025-07-11 13:39:40,754 - audio_download - INFO - Configuration: {'job_type': 'audio_download', 'batch_id': '20250711', 'video_urls': 'https://www.youtube.com/watch?v=jNQXAC9IVRw', 'output_dir': '/volume/audio', 'max_downloads': 1}
+2025-07-11 13:39:40,756 - audio_download - INFO - Processing 1 video URLs
+2025-07-11 13:39:40,757 - audio_download - INFO - Processing video 1/1: https://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-07-11 13:39:40,757 - root - INFO - Downloading audio from: https://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-07-11 13:39:40,758 - root - INFO - Target file: /volume/audio/jNQXAC9IVRw_20250711.wav
+2025-07-11 13:39:40,759 - root - INFO - Attempting download with pytube...
+2025-07-11 13:39:40,759 - root - INFO - Trying pytube download for: https://www.youtube.com/watch?v=jNQXAC9IVRw
+2025-07-11 13:39:42,349 - root - ERROR - pytube download failed: HTTP Error 400: Bad Request
+2025-07-11 13:39:42,352 - root - WARNING - pytube failed: pytube error: HTTP Error 400: Bad Request
+2025-07-11 13:39:42,353 - root - INFO - Falling back to yt-dlp...
+2025-07-11 13:39:42,354 - root - INFO - Trying approach 1/3: yt-dlp --extract-audio --audio-format wav --audio-quality...
+2025-07-11 13:39:47,889 - root - INFO - Approach 1 succeeded!
+2025-07-11 13:39:47,890 - root - INFO - yt-dlp stdout: [youtube] Extracting URL: https://www.youtube.com/watch?v=jNQXAC9IVRw
+[youtube] jNQXAC9IVRw: Downloading webpage
+[youtube] jNQXAC9IVRw: Downloading tv client config
+[youtube] jNQXAC9IVRw: Downloading player 6e20d3a8-main
+[youtube] jNQXAC9IVRw: Downloading tv player API JSON
+[youtube] jNQXAC9IVRw: Downloading ios player API JSON
+[youtube] jNQXAC9IVRw: Downloading m3u8 information
+[info] jNQXAC9IVRw: Downloading 1 format(s): 251
+[download] Destination: /volume/audio/jNQXAC9IVRw_20250711.webm
+
+[download]   0.4% of  246.27KiB at  155.49KiB/s ETA 00:01
+[download]   1.2% of  246.27KiB at  408.47KiB/s ETA 00:00
+[download]   2.8% of  246.27KiB at  883.09KiB/s ETA 00:00
+[download]   6.1% of  246.27KiB at    1.67MiB/s ETA 00:00
+[download]  12.6% of  246.27KiB at  658.28KiB/s ETA 00:00
+[download]  25.6% of  246.27KiB at  712.78KiB/s ETA 00:00
+[download]  51.6% of  246.27KiB at  968.52KiB/s ETA 00:00
+[download] 100.0% of  246.27KiB at    1.37MiB/s ETA 00:00
+[download] 100% of  246.27KiB in 00:00:00 at 756.43KiB/s 
+[ExtractAudio] Destination: /volume/audio/jNQXAC9IVRw_20250711.wav
+Deleting original file /volume/audio/jNQXAC9IVRw_20250711.webm (pass -k to keep)
+
+2025-07-11 13:39:47,893 - root - INFO - Files in output directory: ['jNQXAC9IVRw_20250711.wav']
+2025-07-11 13:39:47,894 - root - INFO - Found target WAV file: jNQXAC9IVRw_20250711.wav
+2025-07-11 13:39:47,896 - root - INFO - Successfully downloaded: jNQXAC9IVRw_20250711.wav (3.5MB)
+2025-07-11 13:39:47,897 - audio_download - INFO - ✅ Downloaded: jNQXAC9IVRw_20250711.wav
+2025-07-11 13:39:47,918 - audio_download - INFO - Results saved to: /volume/audio/download_results_20250711.json

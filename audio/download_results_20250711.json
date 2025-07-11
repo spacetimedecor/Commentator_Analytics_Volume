@@ -1,0 +1,15 @@
+{
+  "batch_id": "20250711",
+  "total_videos": 1,
+  "successful_downloads": 1,
+  "failed_downloads": 0,
+  "results": [
+    {
+      "success": true,
+      "file_path": "/volume/audio/jNQXAC9IVRw_20250711.wav",
+      "file_name": "jNQXAC9IVRw_20250711.wav",
+      "file_size": 3649142,
+      "video_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+    }
+  ]
+}

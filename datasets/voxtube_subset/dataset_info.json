@@ -1,0 +1,54 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "upload_date": {
+      "dtype": "date32",
+      "_type": "Value"
+    },
+    "segment_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "video_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "channel_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "gender": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "spk_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "spk_estim_age": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "spk_estim_age_mae": {
+      "dtype": "float64",
+      "_type": "Value"
+    },
+    "audio": {
+      "bytes": {
+        "dtype": "binary",
+        "_type": "Value"
+      },
+      "path": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

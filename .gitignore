@@ -1,0 +1,8 @@
+.cache
+tmp
+models
+.local
+./.cache/*claude
+venv
+__pycache__
+*.pyc

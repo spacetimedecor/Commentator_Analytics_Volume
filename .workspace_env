@@ -1,0 +1,39 @@
+# Workspace Environment Configuration
+# This file ensures all Python/ML tools use the persistent 200GB volume
+
+# Cache and temp directories on persistent volume
+export TMPDIR=/workspace/tmp
+export PIP_CACHE_DIR=/workspace/.cache/pip
+export XDG_CACHE_HOME=/workspace/.cache
+
+# Python/ML specific cache directories
+export PYTHONUSERBASE=/workspace/.local
+export HUGGINGFACE_HUB_CACHE=/workspace/.cache/huggingface
+export HF_HOME=/workspace/.cache/huggingface
+export TORCH_HOME=/workspace/.cache/torch
+export TRANSFORMERS_CACHE=/workspace/.cache/huggingface/transformers
+export HF_DATASETS_CACHE=/workspace/.cache/huggingface/datasets
+
+# HuggingFace authentication token
+export HUGGINGFACE_TOKEN=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
+export HF_TOKEN=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
+
+# Conda/Mamba cache (if using conda)
+export CONDA_PKGS_DIRS=/workspace/.cache/conda/pkgs
+export MAMBA_PKGS_DIRS=/workspace/.cache/conda/pkgs
+
+# Node.js cache (if using npm)
+export NPM_CONFIG_CACHE=/workspace/.cache/npm
+
+# Jupyter/IPython cache
+export JUPYTER_CONFIG_DIR=/workspace/.cache/jupyter
+export IPYTHONDIR=/workspace/.cache/ipython
+
+# Make sure workspace venv takes priority
+export PATH="/workspace/venv/bin:$PATH"
+
+# Create all cache directories
+mkdir -p /workspace/tmp
+mkdir -p /workspace/.cache/{pip,huggingface,torch,conda/pkgs,npm,jupyter,ipython}
+mkdir -p /workspace/.cache/huggingface/{transformers,datasets}
+mkdir -p /workspace/.local/{bin,lib}

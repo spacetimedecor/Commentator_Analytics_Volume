@@ -1,0 +1,90 @@
+2025-07-10 00:36:36,419 - test_script - INFO - Starting test script...
+2025-07-10 00:36:36,419 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 00:36:36,421 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 00:36:36,431 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 00:36:36,433 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 00:36:36,433 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 00:38:58,841 - test_script - INFO - Starting test script...
+2025-07-10 00:38:58,842 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 00:38:58,843 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 00:38:58,853 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 00:38:58,855 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 00:38:58,855 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 00:43:05,912 - test_script - INFO - Starting test script...
+2025-07-10 00:43:05,913 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 00:43:05,915 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 00:43:05,925 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 00:43:05,928 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 00:43:05,929 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 00:45:35,315 - test_script - INFO - Starting test script...
+2025-07-10 00:45:35,316 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 00:45:35,317 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 00:45:35,330 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 00:45:35,332 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 00:45:35,332 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 01:08:50,139 - test_script - INFO - Starting test script...
+2025-07-10 01:08:50,140 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 01:08:50,141 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 01:08:50,153 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 01:08:50,155 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 01:08:50,155 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 01:10:39,272 - test_script - INFO - Starting test script...
+2025-07-10 01:10:39,273 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 01:10:39,274 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 01:10:39,284 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 01:10:39,286 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 01:10:39,287 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 02:49:37,324 - test_script - INFO - Starting test script...
+2025-07-10 02:49:37,326 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 02:49:37,327 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 02:49:37,337 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 02:49:37,339 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 02:49:37,340 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 02:50:55,510 - test_script - INFO - Starting test script...
+2025-07-10 02:50:55,511 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 02:50:55,512 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 02:50:55,524 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 02:50:55,526 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 02:50:55,526 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:06:34,081 - test_script - INFO - Starting test script...
+2025-07-10 03:06:34,082 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:06:34,083 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:06:34,093 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:06:34,095 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:06:34,096 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:15:01,897 - test_script - INFO - Starting test script...
+2025-07-10 03:15:01,908 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:15:01,911 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:15:01,921 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:15:01,923 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:15:01,924 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:17:40,723 - test_script - INFO - Starting test script...
+2025-07-10 03:17:40,724 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:17:40,726 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:17:40,738 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:17:40,741 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:17:40,742 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:19:50,222 - test_script - INFO - Starting test script...
+2025-07-10 03:19:50,222 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:19:50,223 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:19:50,235 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:19:50,237 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:19:50,237 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:23:09,710 - test_script - INFO - Starting test script...
+2025-07-10 03:23:09,711 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:23:09,712 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:23:09,723 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:23:09,725 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:23:09,725 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 03:24:13,908 - test_script - INFO - Starting test script...
+2025-07-10 03:24:13,910 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 03:24:13,911 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 03:24:13,920 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 03:24:13,922 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 03:24:13,923 - test_script - INFO - ✅ Test script completed successfully
+2025-07-10 11:35:57,927 - test_script - INFO - Starting test script...
+2025-07-10 11:35:57,928 - test_script - INFO - Job config: {'job_type': 'test', 'batch_id': '{{ ds_nodash }}', 'input_dir': None, 'output_dir': None, 'model_cache_dir': '/volume/workspace/models', 'vector_db_path': '/volume/workspace/vector_db'}
+2025-07-10 11:35:57,929 - test_script - INFO - ✅ Volume is mounted
+2025-07-10 11:35:57,943 - test_script - INFO - ✅ Created test file: /volume/workspace/test.txt
+2025-07-10 11:35:57,945 - test_script - INFO - Volume contents: ['workspace', '.git', 'logs', 'models', 'pyannote_segmentation_finetune.ipynb', 'voxconverse_eda.ipynb', 'eda.py', 'install_datasets.py', 'env', 'requirements.txt', '.mypy_cache', 'outputs', 'cache', 'README.md', 'install_requirements.sh', '.claude', 'datasets']
+2025-07-10 11:35:57,946 - test_script - INFO - ✅ Test script completed successfully

@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(pip uninstall:*)",
+      "Bash(pip cache:*)",
+      "Bash(conda clean:*)",
+      "Bash(apt-get:*)",
+      "Bash(find:*)",
+      "Bash(true)",
+      "Bash(rm:*)",
+      "Bash(chmod:*)",
+      "Bash(conda create:*)",
+      "Bash(source:*)",
+      "Bash(./install_requirements.sh:*)",
+      "Bash(TMPDIR=/workspace/temp python3.9 -m pip install --no-cache-dir -r /workspace/requirements.txt)",
+      "Bash(mkdir:*)",
+      "Bash(export PIP_CACHE_DIR=/workspace/.cache/pip)",
+      "Bash(pip config set:*)",
+      "Bash(export TMPDIR=/workspace/tmp)",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(pip show:*)"
+    ],
+    "deny": []
+  }
+}
