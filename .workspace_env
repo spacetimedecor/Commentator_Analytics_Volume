@@ -15,8 +15,7 @@ export TRANSFORMERS_CACHE=/workspace/.cache/huggingface/transformers
 export HF_DATASETS_CACHE=/workspace/.cache/huggingface/datasets
 
 # HuggingFace authentication token
-export HUGGINGFACE_TOKEN=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
-export HF_TOKEN=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
+
 
 # Conda/Mamba cache (if using conda)
 export CONDA_PKGS_DIRS=/workspace/.cache/conda/pkgs
